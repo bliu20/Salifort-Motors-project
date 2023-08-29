@@ -1,4 +1,4 @@
-# Salifort-Motors-project
+# Salifort Motors Project
 Capstone Project of Google Advanced Data Analytics.
 
 For this project, the goal is help an HR team improve employees' satisfaction level within the company. To do so, EDA was conducted to
